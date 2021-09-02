@@ -1,5 +1,7 @@
 # Packing packages in trucks
 
+[![CircleCI](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master.svg?style=shield&circle-token=723c82399fce2303c1d0aff18a8e4d9ad0b0ca63](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master)
+
 This is a code test I was assigned. The test consists of putting packages
 in trucks, using the minimum number of trucks, and assigning a price to the
 manifest. This was done in express and exposes 1 public endpoint which takes
@@ -61,12 +63,12 @@ brew install sqlite3
 
 Just run npm install and it'll start the server.
 ````
-npm install
+yarn install
 ````
 
 Then start the server
 ````
-npm start
+yarn run start
 ````
 
 Then make a request to the server
@@ -119,12 +121,12 @@ brew install sqlite3
 
 Run the npm install
 ````
-npm install
+yarn install
 ````
 
 Then just run the tests
 ````
-npm test
+yarn run test
 ````
 
 ## What's left to do?
