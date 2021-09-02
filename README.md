@@ -1,6 +1,6 @@
 # Packing packages in trucks
 
-![CircleCI](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master.svg?style=shield&circle-token=723c82399fce2303c1d0aff18a8e4d9ad0b0ca63](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master)
+[![CircleCI](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master.svg?style=svg)](https://circleci.com/gh/scottfrasso/packingtrucks/tree/master)
 
 This is a code test I was assigned. The test consists of putting packages
 in trucks, using the minimum number of trucks, and assigning a price to the
