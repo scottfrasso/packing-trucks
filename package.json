@@ -12,7 +12,7 @@
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "path": "^0.12.7",
     "sequelize": "^5.21.6",
     "sqlite3": "^4.0.2",
